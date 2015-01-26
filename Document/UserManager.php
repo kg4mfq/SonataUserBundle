@@ -11,7 +11,7 @@
 
 namespace Sonata\UserBundle\Document;
 
-use FOS\UserBundle\Document\UserManager as BaseUserManager;
+use FOS\UserBundle\Model\UserManager as BaseUserManager;
 use Sonata\UserBundle\Model\UserManagerInterface;
 
 /**
